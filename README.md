@@ -43,7 +43,7 @@ Windows (CMD):
 set GEMINI_API_KEY=your_api_key_here
 
 Run the chatbot:
-python chatbot.py
+python emotional_ai_gui.py
 
 ## ✅ Real Examples
 Example 1:
