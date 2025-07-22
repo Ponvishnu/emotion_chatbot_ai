@@ -1,6 +1,6 @@
 # 📌 Multilingual Emotion-Aware AI Chatbot
-Submitted by: Vishnu
-Language: Python
+### Submitted by: Vishnu
+### Language: Python
 Frameworks & Tools: PyQt5, HuggingFace Transformers, Google Gemini (Generative AI), Torch, LangDetect
 Project Type: Desktop GUI Application (AI + NLP)
 
